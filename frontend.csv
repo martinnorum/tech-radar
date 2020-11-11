@@ -1,112 +1,256 @@
-name,ring,quadrant,isNew,description
-Babel,adopt,tools,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Consul,adopt,tools,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Consumer-driven contract testing,adopt,techniques,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Docker,adopt,platforms,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Ember.js,adopt,languages & frameworks,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Grafana,adopt,tools,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-HSTS,adopt,platforms,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Linux security modules,adopt,platforms,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Packer,adopt,tools,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Pipelines as code,adopt,techniques,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-React.js,adopt,languages & frameworks,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Redux,adopt,languages & frameworks,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Spring Boot,adopt,languages & frameworks,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Threat Modeling,adopt,techniques,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-.NET Core,assess,platforms,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Amazon API Gateway,assess,platforms,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Android-x86,assess,tools,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Apache Flink,assess,platforms,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Aurelia,assess,languages & frameworks,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-AWS Application Load Balancer,assess,platforms,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-axios,assess,tools,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Bottled Water,assess,tools,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Cassandra carefully,assess,platforms,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Client-directed query,assess,techniques,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Clojure.spec,assess,tools,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Container security scanning,assess,techniques,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Content Security Policies,assess,techniques,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Differential privacy,assess,techniques,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-ECMAScript 2017,assess,languages & frameworks,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Electron,assess,platforms,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Elm,assess,languages & frameworks,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Ethereum,assess,platforms,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-FBSnapshotTestcase,assess,tools,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-GraphQL,assess,languages & frameworks,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Grasp,assess,tools,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-HoloLens,assess,platforms,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-IndiaStack,assess,platforms,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-JuMP,assess,languages & frameworks,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-LambdaCD,assess,tools,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Micro frontends,assess,techniques,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Nomad,assess,platforms,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Nuance Mix,assess,platforms,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-OpenVR,assess,platforms,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-OWASP ASVS,assess,techniques,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Physical Web,assess,languages & frameworks,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Pinpoint,assess,tools,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Pitest,assess,tools,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Rapidoid,assess,languages & frameworks,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Recharts,assess,languages & frameworks,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Repsheet,assess,tools,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-ReSwift,assess,languages & frameworks,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Scikit-learn,assess,tools,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Tarantool,assess,platforms,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-TensorFlow,assess,platforms,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Three.js,assess,languages & frameworks,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Unikernels,assess,techniques,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-VR beyond gaming,assess,techniques,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Vue.js,assess,languages & frameworks,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-WebRTC,assess,languages & frameworks,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-wit.ai,assess,platforms,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-A single CI instance for all teams,hold,techniques,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Anemic REST,hold,techniques,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-AngularJS,hold,languages & frameworks,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Big Data envy,hold,techniques,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Cloud lift and shift,hold,techniques,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-CMS as a platform,hold,platforms,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Jenkins as a deployment pipeline,hold,tools,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-JSPatch,hold,languages & frameworks,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Overambitious API gateways,hold,platforms,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Superficial private cloud,hold,platforms,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Apache Kafka,trial,tools,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Apache Mesos,trial,platforms,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-APIs as a product,trial,techniques,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Auth0x,trial,platforms,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-AWS Lambda,trial,platforms,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Bug bounties,trial,techniques,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Butterknife,trial,languages & frameworks,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Dagger,trial,languages & frameworks,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Dapper,trial,languages & frameworks,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Data Lake,trial,techniques,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Elixir,trial,languages & frameworks,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Enzyme,trial,languages & frameworks,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Espresso,trial,tools,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-fastlane,trial,tools,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Galen,trial,tools,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-HashiCorp Vault,trial,tools,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Hosting PII data in the EU,trial,techniques,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Immutable.js,trial,languages & frameworks,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-JSONassert,trial,tools,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Kubernetes,trial,platforms,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Let's Encrypt,trial,tools,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Lightweight Architecture Decision Records,trial,techniques,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Load Impact,trial,tools,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-OWASP Dependency-Check,trial,tools,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Pa11y,trial,tools,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Phoenix,trial,languages & frameworks,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Pivotal Cloud Foundry,trial,platforms,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Quick and Nimble,trial,languages & frameworks,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Rancher,trial,platforms,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-React Native,trial,languages & frameworks,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Reactive architectures,trial,techniques,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Realm,trial,platforms,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Robolectric,trial,languages & frameworks,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Serverless architecture,trial,techniques,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Serverspec,trial,tools,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Talisman,trial,tools,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Terraform,trial,tools,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-tmate,trial,tools,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Unity beyond gaming,trial,platforms,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Webpack,trial,tools,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Zipkin,trial,tools,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
+name,description,ring,quadrant,Team,Count,isNew
+Personas,Ask UX/design about user testing,Assess,Technique,Bash,1,TRUE
+Remove Operator CSS Overrides,Easier to work with CSS,Assess,Technique,Bash,1,TRUE
+Open Source,"Doing it, not just using it",Assess,Technique,Bash,1,TRUE
+Conway's Law,,Assess,Technique,Bash,1,TRUE
+Component Library,,Assess,Technique,Bash,1,TRUE
+Evolving Architecture,,Assess,Technique,Bash,1,TRUE
+Cross-functional Teams,,Assess,Technique,Bash,1,TRUE
+Value Slice Ownership,,Assess,Technique,Bash,1,TRUE
+Mob Programming,,Trial,Technique,Bash,1,TRUE
+A/B Testing,,Trial,Technique,Bash,1,TRUE
+Functional Programming,,Trial,Technique,Bash,1,TRUE
+TDD,,Trial,Technique,Bash,1,TRUE
+Continuous Delivery,Every story ready to release,Trial,Technique,Bash,1,TRUE
+Similar Test and Prod Envs,,Trial,Technique,Bash,1,TRUE
+Clean Out Old Stuff,"Handlebars, Backbone",Trial,Technique,Bash,1,TRUE
+Perceived Performance,,Trial,Technique,Bash,1,TRUE
+Guilds/Tribes,"CoPFE exists, others?",Trial,Technique,Bash,1,TRUE
+Everyday Integration Tests,"Part of daily process, build on existing Cypress tests",Trial,Technique,Bash,1,TRUE
+Exploratory Testing,,Adopt,Technique,Bash,1,TRUE
+Secure by Default,,Adopt,Technique,Bash,1,TRUE
+DevOps Culture,,Adopt,Technique,Bash,1,TRUE
+Reason ML,,Assess,Language,Bash,1,TRUE
+Redux-first-router,https://github.com/faceyspacey/redux-first-router use Redux as is while keeping the address bar in sync. State is the single source of truth.,Assess,Language,Bash,1,TRUE
+Vue,,Assess,Language,Bash,1,TRUE
+React Hooks,,Assess,Language,Bash,1,TRUE
+Mob X,,Assess,Language,Bash,1,TRUE
+PopMotion,https://popmotion.io/ animation library,Assess,Language,Bash,1,TRUE
+react-spring,A spring physics based React animation library,Assess,Language,Bash,1,TRUE
+Ramda,,Assess,Language,Bash,1,TRUE
+Web components,,Assess,Language,Bash,1,TRUE
+Emotion,https://emotion.sh CSS in JS,Assess,Language,Bash,1,TRUE
+Immer js,Create the next immutable state by mutating the current one,Assess,Language,Bash,1,TRUE
+Linaria,Css in js compile time,Assess,Language,Bash,1,TRUE
+Styled components,https://www.styled-components.com/ CSS in JS,Assess,Language,Bash,1,TRUE
+Feather js,Node framework (offline first),Assess,Language,Bash,1,TRUE
+MDX,Jsx in MD,Assess,Language,Bash,1,TRUE
+Cypress,,Trial,Language,Bash,1,TRUE
+Jsdoc,Strict typing,Trial,Language,Bash,1,TRUE
+Redux,,Trial,Language,Bash,1,TRUE
+GraphQL,,Trial,Language,Bash,1,TRUE
+VigorJs,,Adopt,Language,Bash,1,TRUE
+React,,Adopt,Language,Bash,1,TRUE
+Haskel,,Hold,Language,Bash,1,TRUE
+Jquery,,Hold,Language,Bash,1,TRUE
+Backbone,,Hold,Language,Bash,1,TRUE
+iOS,OS,Adopt,Platforms,Bash,1,TRUE
+Android,OS,Adopt,Platforms,Bash,1,TRUE
+Docker,Everything needed to run an application in containers,Assess,Tools,Bash,1,TRUE
+Error Monitoring,Some real tool instead of GA,Assess,Tools,Bash,1,TRUE
+Tests in Browser Stack,Running tests in real mobile devices and browsers.,Assess,Tools,Bash,1,TRUE
+Server Side Rendering,https://medium.freecodecamp.org/what-exactly-is-client-side-rendering-and-hows-it-different-from-server-side-rendering-bd5c786b340d,Assess,Tools,Bash,1,TRUE
+Monitoring,,Adopt,Tools,Bash,1,TRUE
+Mock Server,https://bitbucket.services.kambi.com/projects/BC/repos/tools/browse/html5-client-mock-server,Adopt,Tools,Bash,1,TRUE
+Lighthouse,Running lighthouse audits with https://bitbucket.services.kambi.com/projects/BC/repos/tools/browse/lighthouse and showing results in https://client-tool.services.kambi.com/git/ ,Adopt,Tools,Bash,1,TRUE
+Webpack,webpack is a static module bundler for modern JavaScript applications.,Adopt,Tools,Bash,1,TRUE
+Performance testing,,Trial,Tools,Bash,1,TRUE
+Performance monitoring,,Trial,Tools,Bash,1,TRUE
+X as code,,Trial,Tools,Bash,1,TRUE
+jQuery slim build,,Trial,Language,Bolt,1,TRUE
+ECMAScript Stage 3 proposals,,Trial,Language,Bolt,1,TRUE
+CSS Varialbes,,Trial,Language,Bolt,2,TRUE
+Evolving Architecture,,Trial,Technique,Bolt,1,TRUE
+HTTP2 / Server push,,Trial,Technique,Bolt,1,TRUE
+Functional Programming,,Assess,Technique,Bolt,1,TRUE
+Server Side Rendering,,Assess,Technique,Bolt,3,TRUE
+Continuous Delivery,,Assess,Technique,Bolt,1,TRUE
+Cross-functional Teams,,Assess,Technique,Bolt,1,TRUE
+Time-travel debugging,,Assess,Technique,Bolt,1,TRUE
+Animations,,Assess,Technique,Bolt,1,TRUE
+Rust / WASM,,Hold,Language,Bolt,1,TRUE
+React Native,,Hold,Language,Bolt,1,TRUE
+Vue,,Hold,Language,Bolt,1,TRUE
+ReasonML,,Hold,Language,Bolt,1,TRUE
+Java,,Hold,Language,Bolt,1,TRUE
+Electron,,Hold,Platforms,Bolt,1,TRUE
+Flutter,,Hold,Platforms,Bolt,1,TRUE
+A/B Testing,,Adopt,Technique,Bolt,1,TRUE
+Prototyping - Invision,,Adopt,Technique,Bolt,1,TRUE
+Pair programming,,Adopt,Technique,Bolt,1,TRUE
+Exploratory Testing,,Adopt,Technique,Bolt,1,TRUE
+Improve code reviews,,Adopt,Technique,Bolt,1,TRUE
+"Discovery (UX research, design sprints)",,Adopt,Technique,Bolt,1,TRUE
+Lab thursdays,,Adopt,Technique,Bolt,1,TRUE
+Architectura Desicion Records,,Adopt,Technique,Bolt,1,TRUE
+Meassure code complexity,,Adopt,Tools,Bolt,1,TRUE
+Cypress,,Adopt,Tools,Bolt,1,TRUE
+Test code coverage,,Adopt,Tools,Bolt,1,TRUE
+"Charles, proxies",,Adopt,Tools,Bolt,1,TRUE
+CSS Grid,,Adopt,Language,Bolt,1,TRUE
+Service Worker,,Adopt,Language,Bolt,1,TRUE
+React 16.8+ (Hooks),,Adopt,Language,Bolt,1,TRUE
+Web Components,,Adopt,Language,Bolt,3,TRUE
+IntersectionObserver,,Adopt,Language,Bolt,1,TRUE
+ECMAScript 2018,,Adopt,Language,Bolt,1,TRUE
+Redux Sagas,,Assess,Language,Bolt,1,TRUE
+React Router,,Adopt,Language,Bolt,1,TRUE
+TypeScript,,Adopt,Language,Bolt,2,TRUE
+Redux,,Adopt,Language,Bolt,2,TRUE
+Native iOS/Android,,Assess,Platforms,Bolt,1,TRUE
+WebWorker,,Assess,Platforms,Bolt,1,TRUE
+Cypress tests in BrowserStack,,Assess,Tools,Bolt,1,TRUE
+Client SDK for iOS,,Assess,Tools,Bolt,1,TRUE
+Docker,,Assess,Tools,Bolt,1,TRUE
+WebPack 5,,Trial,Tools,Bolt,1,TRUE
+Mob X,,Assess,Language,Bolt,1,TRUE
+CSS-in-JS,,Assess,Language,Bolt,1,TRUE
+Ramda,,Assess,Language,Bolt,1,TRUE
+Houdini,,Assess,Language,Bolt,1,TRUE
+TypeScript,,Hold,Language,Yolo,1,TRUE
+Web Components,,Assess,Language,Yolo,1,TRUE
+Common Kambi Code/Framework/Lib,,Assess,Language,Yolo,1,TRUE
+Akita,,Assess,Language,Yolo,1,TRUE
+Reason ML,,Assess,Language,Yolo,1,TRUE
+AWS/Azure/Serverless,,Assess,Platforms,Yolo,1,TRUE
+NPM/Yarn Voulnerability testing,,Assess,Technique,Yolo,1,TRUE
+Functional Programming,,Assess,Technique,Yolo,2,TRUE
+E2E tests in Browser Stack,,Assess,Technique,Yolo,1,TRUE
+Micro Frontends,,Assess,Technique,Yolo,1,TRUE
+Container (Docker),,Assess,Technique,Yolo,1,TRUE
+TDD,,Trial,Technique,Yolo,1,TRUE
+Track code coverage,,Trial,Technique,Yolo,1,TRUE
+Client API in Chicago,,Trial,Technique,Yolo,1,TRUE
+Wallaby.js,,Assess,Tools,Yolo,1,TRUE
+Google Optimize,,Assess,Tools,Yolo,1,TRUE
+Lighthouse,,Trial,Tools,Yolo,1,TRUE
+Release tool for Chicago,,Trial,Tools,Yolo,1,TRUE
+Google Analytics (Chicago),,Trial,Tools,Yolo,1,TRUE
+Postman,,Adopt,Tools,Yolo,1,TRUE
+Git,,Adopt,Tools,Yolo,1,TRUE
+BitBucket,,Adopt,Tools,Yolo,1,TRUE
+Jira,,Adopt,Tools,Yolo,1,TRUE
+Webpack,,Adopt,Tools,Yolo,2,TRUE
+Kit,,Adopt,Tools,Yolo,1,TRUE
+Mobile first,,Adopt,Technique,Yolo,1,TRUE
+BDD,,Adopt,Technique,Yolo,2,TRUE
+Themeing (Sparkling?),,Adopt,Technique,Yolo,1,TRUE
+Cross-functional Teams,,Adopt,Technique,Yolo,1,TRUE
+DevOps,,Adopt,Technique,Yolo,2,TRUE
+Pair programming,,Adopt,Technique,Yolo,1,TRUE
+Scrum,,Adopt,Technique,Yolo,1,TRUE
+Cypress,,Adopt,Language,Yolo,1,TRUE
+React,,Adopt,Language,Yolo,2,TRUE
+ES6,,Adopt,Language,Yolo,1,TRUE
+Apollo,,Adopt,Language,Yolo,2,TRUE
+Express,,Adopt,Language,Yolo,1,TRUE
+Redux,,Adopt,Language,Yolo,2,TRUE
+NodeJS,,Adopt,Language,Yolo,1,TRUE
+React CSS/ JSS,,Adopt,Language,Yolo,2,TRUE
+GraphQL,,Adopt,Language,Yolo,4,TRUE
+AWS,,Adopt,Platforms,Yolo,1,TRUE
+Jenkins,,Adopt,Platforms,Yolo,1,TRUE
+Cloud,,Adopt,Platforms,Yolo,1,TRUE
+Mobile,,Adopt,Platforms,Yolo,1,TRUE
+Node.js,,Adopt,Language,Pool,1,TRUE
+React,,Adopt,Language,Pool,1,TRUE
+Redux,,Adopt,Language,Pool,1,TRUE
+Express.js,,Adopt,Language,Pool,1,TRUE
+Ramda,,Trial,Language,Pool,2,TRUE
+MongoDB,,Trial,Language,Pool,3,TRUE
+TypeScript,,Trial,Language,Pool,2,TRUE
+Akita,,Assess,Language,Pool,1,TRUE
+ReasonML,,Assess,Language,Pool,2,TRUE
+ReactNative,,Assess,Language,Pool,2,TRUE
+Native iOS/Android,,Assess,Language,Pool,1,TRUE
+RxJS,,Assess,Language,Pool,1,TRUE
+Loopback,,Assess,Language,Pool,1,TRUE
+Vue,,Assess,Language,Pool,1,TRUE
+MobX,,Hold,Language,Pool,1,TRUE
+Next.js,,Hold,Language,Pool,1,TRUE
+Haskel,,Hold,Language,Pool,1,TRUE
+Java,,Hold,Language,Pool,1,TRUE
+Go,,Hold,Language,Pool,1,TRUE
+Cloudbased error reporting,,Adopt,Tools,Pool,1,TRUE
+Cypress,,Adopt,Tools,Pool,2,TRUE
+Lighthouse,,Adopt,Tools,Pool,1,TRUE
+Functional Programming,,Adopt,Technique,Pool,1,TRUE
+Pair programming,,Adopt,Technique,Pool,1,TRUE
+Documented feature directories,,Adopt,Technique,Pool,1,TRUE
+TDD,,Adopt,Technique,Pool,2,TRUE
+Cross-functional Teams,,Adopt,Technique,Pool,1,TRUE
+Micro Frontends,,Adopt,Technique,Pool,1,TRUE
+Dev Ops Culture,,Adopt,Technique,Pool,1,TRUE
+Open API 3,,Trial,Technique,Pool,1,TRUE
+React Suspense,,Trial,Technique,Pool,1,TRUE
+React Hooks,,Trial,Technique,Pool,1,TRUE
+GraphQL,,Trial,Technique,Pool,3,TRUE
+Containers,,Trial,Technique,Pool,2,TRUE
+Open Source,,Assess,Technique,Pool,1,TRUE
+Server Side Rendering,,Assess,Technique,Pool,1,TRUE
+Web Assembly,,Assess,Technique,Pool,1,TRUE
+Web Components,,Assess,Technique,Pool,1,TRUE
+Parcel,,Trial,Tools,Pool,1,TRUE
+Docker,,Trial,Tools,Pool,1,TRUE
+Selenium,,Trial,Tools,Pool,1,TRUE
+Stackoverflow groups,,Assess,Tools,Pool,1,TRUE
+Alarm monitoring,,Assess,Tools,Pool,1,TRUE
+Blockduck,,Assess,Tools,Pool,1,TRUE
+GIS,,Hold,Technique,Pool,1,TRUE
+Neural network,,Hold,Technique,Pool,1,TRUE
+Inmemory databases,,Hold,Technique,Pool,1,TRUE
+E2E tests in Browser Stack,,Assess,Technique,Wave,1,TRUE
+X as code,,Assess,Technique,Wave,1,TRUE
+Micro Services,,Trial,Technique,Wave,1,TRUE
+Decoupled Web Components,,Trial,Technique,Wave,1,TRUE
+Monorepo / multiple modules,,Trial,Technique,Wave,1,TRUE
+Cross-functional Teams,,Trial,Technique,Wave,2,TRUE
+Component ownership,,Trial,Technique,Wave,1,TRUE
+Automated test using Cypress,,Adopt,Technique,Wave,1,TRUE
+Consistent coding styles,,Adopt,Technique,Wave,1,TRUE
+Design patterns,,Adopt,Technique,Wave,1,TRUE
+Mobile first,,Adopt,Technique,Wave,1,TRUE
+Pair testing,,Adopt,Technique,Wave,1,TRUE
+KISS,,Adopt,Technique,Wave,1,TRUE
+Pair programming,,Adopt,Technique,Wave,1,TRUE
+TDD,,Adopt,Technique,Wave,1,TRUE
+Mob programming,,Adopt,Technique,Wave,2,TRUE
+Clean codebase,,Adopt,Technique,Wave,1,TRUE
+CypressJS automated tests,,Adopt,Technique,Wave,1,TRUE
+Security testing,,Adopt,Technique,Wave,1,TRUE
+Portability,,Adopt,Technique,Wave,1,TRUE
+Automated tests,,Adopt,Technique,Wave,2,TRUE
+Machine Learning,,Adopt,Technique,Wave,1,TRUE
+Web Components,,Assess,Language,Wave,2,TRUE
+React Native,,Assess,Language,Wave,1,TRUE
+Flutter,,Assess,Language,Wave,1,TRUE
+Akita,,Assess,Language,Wave,1,TRUE
+Vue,,Assess,Language,Wave,1,TRUE
+ReasonML,,Assess,Language,Wave,1,TRUE
+Ramda,,Trial,Language,Wave,1,TRUE
+TypeScript,,Trial,Language,Wave,1,TRUE
+Selenium,,Trial,Language,Wave,2,TRUE
+Redux,,Adopt,Language,Wave,2,TRUE
+React,,Adopt,Language,Wave,1,TRUE
+GraphQL,,Adopt,Language,Wave,2,TRUE
+Redux,,Adopt,Language,Wave,3,TRUE
+React,,Adopt,Language,Wave,1,TRUE
+React,,Adopt,Language,Wave,1,TRUE
+Android,,Adopt,Platforms,Wave,1,TRUE
+iOS,,Adopt,Platforms,Wave,1,TRUE
+Kafka / Data pipeline,,Adopt,Platforms,Wave,1,TRUE
+AWS,,Adopt,Platforms,Wave,1,TRUE
+Jira,,Adopt,Tools,Wave,1,TRUE
+Confluence,,Adopt,Tools,Wave,1,TRUE
+Postgres,,Adopt,Tools,Wave,1,TRUE
+Performance tools,,Adopt,Tools,Wave,1,TRUE
+VS code,,Adopt,Tools,Wave,1,TRUE
+Webpack,,Adopt,Tools,Wave,1,TRUE
+Jenkins,,Adopt,Tools,Wave,1,TRUE
+Testier,,Trial,Tools,Wave,1,TRUE
+Kubernetes,,Trial,Tools,Wave,1,TRUE
+Medrmaid diagrams,,Assess,Tools,Wave,1,TRUE
+WallabyJS,,Assess,Tools,Wave,1,TRUE
+SWC (Babel alternative),,Assess,Tools,Wave,1,TRUE
+GitLab,,Assess,Tools,Wave,2,TRUE
+VigorJS,,Hold,Tools,Wave,1,TRUE
